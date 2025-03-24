@@ -156,8 +156,8 @@ const Footer = ({}) => {
             >
               Powerd by foodo
             </Link>
-            <p className="font-poppins pb-6 text-xs font-[700] lowercase tracking-[1px] text-[#fff]">
-              © 2024 antonietta ALL RIGHTS RESERVED
+            <p className="pb-6 font-poppins text-xs font-[700] lowercase tracking-[1px] text-[#fff]">
+              © 2024 cafe ALL RIGHTS RESERVED
             </p>
           </div>
         </div>
