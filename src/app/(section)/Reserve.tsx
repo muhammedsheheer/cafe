@@ -88,16 +88,16 @@ const Reserve: React.FC = () => {
               Reserve <br />
               Your Table{" "}
             </h1>
-            <p className="font-luckiest_guy w-full max-w-[600px] text-sm font-[400] lowercase tracking-[6px] text-[#fff] md:px-0 md:text-base">
+            <p className="w-full max-w-[600px] font-luckiest_guy text-sm font-[400] lowercase tracking-[6px] text-[#fff] md:px-0 md:text-base">
               At Antonita’s, we believe every occasion deserves a touch of
               sweetness and every celebration a cake that speaks from the heart.
               Our bakery specializes in creating delectable, handcrafted cakes
               that are as unique as the moments they celebrate.
             </p>
             <div>
-              <Link href={"/menu"}>
-                <Button className="font-road_rage rounded-none border border-[#fff] bg-[#fff] px-6 py-5 text-xl font-[400] uppercase tracking-[3px] text-[#000] hover:bg-[#445AA8] hover:text-[#fff]">
-                  View Menu
+              <Link href={"/table-booking"}>
+                <Button className="rounded-none border border-[#fff] bg-[#fff] px-6 py-5 font-road_rage text-xl font-[400] uppercase tracking-[3px] text-[#000] hover:bg-[#445AA8] hover:text-[#fff]">
+                  Book Now
                 </Button>
               </Link>
             </div>
